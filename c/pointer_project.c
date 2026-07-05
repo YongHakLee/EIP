@@ -18,7 +18,7 @@ void printFishes();
 void decreaseWater(long elapsedTime);
 int checkFishAlive();
 
-int main(void)
+int main_pointer_project(void)
 {
     SetConsoleOutputCP(CP_UTF8);
     SetConsoleCP(CP_UTF8);
